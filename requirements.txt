@@ -1,0 +1,13 @@
+colorama
+fastapi
+pydantic
+python-dotenv
+ujson
+uvicorn
+discord
+audioop-lts
+bcrypt
+click
+keyring
+Requests
+tcolorpy

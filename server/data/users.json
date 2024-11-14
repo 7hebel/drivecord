@@ -16,5 +16,15 @@
       1272297242656505937
     ],
     "is_banned": false
+  },
+  "418673016093016066": {
+    "discord_id": 418673016093016066,
+    "password": "$2b$12$kW9vgI.GaDBZg42.dTuA6uoI.j6QI/4Hu2OOu9lDaFMzKuEP40kIO",
+    "date_join": 1723753561,
+    "servers_ids": [
+      1272297242656505937,
+      1274774065521102908
+    ],
+    "is_banned": false
   }
 }
