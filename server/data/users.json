@@ -1,0 +1,20 @@
+{
+  "418673016093016066": {
+    "discord_id": 418673016093016066,
+    "password": "$2b$12$kW9vgI.GaDBZg42.dTuA6uoI.j6QI/4Hu2OOu9lDaFMzKuEP40kIO",
+    "date_join": 1723753561,
+    "servers_ids": [
+      1272297242656505937
+    ],
+    "is_banned": false
+  },
+  "556164652988366859": {
+    "discord_id": 556164652988366859,
+    "password": "$2b$12$RPahdw06OpMbHP10sza.MObBRdLnJEdVLJsobJ668jL.B0V9U21gu",
+    "date_join": 1725207338,
+    "servers_ids": [
+      1272297242656505937
+    ],
+    "is_banned": false
+  }
+}
