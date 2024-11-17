@@ -91,7 +91,7 @@ def edit_file(shell: "ShellSession", params: dict[str, Any]) -> None:
     path = params.get("Path")
 
     content = shell.instance.fs_api.read_file(path)
-    if not content:
+    if content is False:
         return print(style.error_msg("Failed to fetch current content."))
     
     edited_content = edit(content)
