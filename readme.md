@@ -97,3 +97,22 @@ Get list of all available commands with the `help` command. Here You can see all
 ![CLI help](https://raw.githubusercontent.com/7hebel/drivecord/refs/heads/main/assets/cli-help.png)
 
 The command line tool provides the same opportunities as the Discord Console.
+
+<div align="center">
+    <br>
+    <h2>⚙️ Setup server</h2>
+</div>
+
+1. Download the server code from this repo.
+
+2. Create Discord bot on the Discord Developer Portal.
+
+3. Create `.env` file inside the `/server` directory.
+
+```
+DRIVECORD-TOKEN=...
+DRIVECORD-HOST=...
+DRIVECORD-PORT=...
+```
+
+4. Run server with the `py main.py` command.
