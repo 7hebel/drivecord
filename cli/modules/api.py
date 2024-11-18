@@ -11,7 +11,8 @@ if TYPE_CHECKING:
     from modules.shell.shell import ShellSession
 
 
-API_ADRESSS = "http://localhost:8000/api/"
+# API_ADRESSS = "http://localhost:8000/api/"
+API_ADRESSS = "http://space7.smallhost.pl:2020/api/"
 
 
 def _validate_server_response(response: requests.Response) -> bool:
