@@ -78,3 +78,22 @@ To get list of all available commands write the `help` command. To get more deta
 With the **Standard commands** You can alter the filesystem by creating, removing, renaming, moving, uploading or downloading, reading and writing the files and directories. 
 
 The **Advanced commands** section contains commands that are used for debugging, avoid using these commands without deep understanding.
+
+<div align="center">
+    <br>
+    <h2>💻 Command Line Interface</h2>
+</div>
+
+Download the CLI tool using the tutorial above. Navigate to the `/cli` directory in the terminal. Run client with `py main.py` and login with the DiscordID and password that You have registered DriveCord account with.
+
+![CLI Login](https://raw.githubusercontent.com/7hebel/drivecord/refs/heads/main/assets/cli-login.png)
+
+The command prompt contains dimmed selected instance name and the current working path (like in system terminals).
+
+![CLI cwd](https://raw.githubusercontent.com/7hebel/drivecord/refs/heads/main/assets/cli-path.png)
+
+Get list of all available commands with the `help` command. Here You can see all 4 categories (`System`, `Management`, `File system` and `Debug`). To get more detailed help with a single command, use `help CommandName`.
+
+![CLI help](https://raw.githubusercontent.com/7hebel/drivecord/refs/heads/main/assets/cli-help.png)
+
+The command line tool provides the same opportunities as the Discord Console.
