@@ -6,7 +6,7 @@
 
 <div align="center">
     <br>
-    <h2>? Install</h2>
+    <h2>📦 Install</h2>
 </div>
 
 1. Ensure [Python](https://www.python.org/downloads/) is installed and added to the PATH.
@@ -29,29 +29,29 @@
 
 4. Invite DriveCord bot to the Discord server:
    
-    [?�� Invite URL](https://discord.com/oauth2/authorize?client_id=1273050122451816599)
+    [🔗 Invite URL](https://discord.com/oauth2/authorize?client_id=1273050122451816599)
 
 <div align="center">
     <br>
-    <h2>? Account</h2>
+    <h2>👤 Account</h2>
 </div>
 
 In order to use DriveCord application, You must link Your Discord account with the DriveCord system. Respond to the Bot's private message or send it `/register` command.
 
 <div align="center">
     <br>
-    <h2>?? Instances</h2>
+    <h2>🗃️ Instances</h2>
 </div>
 
 Each DriveCord drive instance is a single Discord server with a initialized filesystem using the bot. 
 
 **To create new instance** create new Discord server, [invite bot](https://discord.com/oauth2/authorize?client_id=1273050122451816599) and follow it's instructions.
 
-You will be able to access data saved on the instance via **Discord `#console` channel** or **CLI client**.
+You will be able to access data saved on the instance via the **Discord `#console` channel** or the **CLI client**.
 
 <div align="center">
     <br>
-    <h2>?? Permissions</h2>
+    <h2>🎖️ Permissions</h2>
 </div>
 
 There are **4 roles** with different permissions that You can assign to the members.
@@ -68,7 +68,7 @@ Only @Owner which is the instance's author can assign @Admin role to other membe
 
 <div align="center">
     <br>
-    <h2>?? Discord Console</h2>
+    <h2>💬 Discord Console</h2>
 </div>
 
 The `#console` channel is the only channel in the server that You can write on. Writing on other channels may break the filesystem.
