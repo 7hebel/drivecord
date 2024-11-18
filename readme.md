@@ -1,6 +1,6 @@
 <div align="center">
     <br>
-    <img src="./assets/logo.png" width="280" alt="Drivecord" />
+    <img src="./assets/banner.png" width="400" alt="Drivecord" />
     <br>
     <br>
     <h2>DriveCord.</h2>
